@@ -1,0 +1,35 @@
+目录链备忘录
+
+
+需要审批的资源
+	1. 目录资源
+	2. 资源
+	3. 机构
+	
+	
+	
+不需要审批的资源
+	1. 目录分类
+	
+	
+前端存储的user格式和数据类型为:
+{
+createTime: ""
+deptId: "74fe5499-2880-4a9d-891b-7af5be934733"
+inputPwdErrorTimes: 2
+isFirstLogin: "0"
+password: ""
+passwordHistory: ""
+telephone: "1234"
+updateTime: ""
+userDid: "did:ttm:u08599cc652d30e3d1e5e36ae5f4dd6fa2a3373c31e9800998ecf8427e8a6e"
+userEmail: "admin@qq.com"
+userId: 2
+userName: "admin"
+userNameZh: "管理员"
+userStatus: "0"
+}
+
+
+user001did: did:ttm:u07c63cf41d402ada1eeb8ac275508e78cc310c336e9800998ecf8427e7ef9
+user002Did: 
